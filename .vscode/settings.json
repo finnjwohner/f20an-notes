@@ -1,11 +1,15 @@
 {
     "cSpell.words": [
+        "Datagram",
+        "demultiplexing",
+        "Fraggle",
         "HLEN",
         "HTYPE",
         "internetwork",
         "localnet",
         "PLEN",
         "Proteon",
-        "PTYPE"
+        "PTYPE",
+        "wireshark"
     ]
 }
