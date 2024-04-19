@@ -2,18 +2,23 @@
     "cSpell.words": [
         "Datagram",
         "demultiplexing",
+        "DNSSEC",
         "Fraggle",
         "HLEN",
         "hostnames",
         "HTYPE",
+        "ICANN",
         "inalltext",
         "internetwork",
         "intitle",
         "inurl",
         "localnet",
+        "nameserver",
+        "Pharming",
         "PLEN",
         "Proteon",
         "PTYPE",
+        "SNMP",
         "Traceroute",
         "wireshark"
     ]
