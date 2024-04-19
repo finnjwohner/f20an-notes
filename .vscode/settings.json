@@ -4,12 +4,17 @@
         "demultiplexing",
         "Fraggle",
         "HLEN",
+        "hostnames",
         "HTYPE",
+        "inalltext",
         "internetwork",
+        "intitle",
+        "inurl",
         "localnet",
         "PLEN",
         "Proteon",
         "PTYPE",
+        "Traceroute",
         "wireshark"
     ]
 }
